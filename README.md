@@ -1,16 +1,6 @@
 # Network_Infra_Mind
 Project: managing network services with security
  
-
-
-
-
-
-
-
-
-
-
 The Hardwares and the technologies that will be used in this project are the following:
 ⦁	The Hardwares:
 1- MikroTik Router 1100.
@@ -78,10 +68,17 @@ DHCP
 ⦁	DNS Server:
 ⦁	AdGuard.
 ⦁	SSL
+
+
 ⦁	VOIP Server:
+
+
 ⦁	Issabel.
+
 ⦁	SSL
+
 ⦁	Back-Up Server:
+
 ⦁	OpenMediaVault (NAS):
 ⦁	SSL.
 ⦁	File Sharing.
