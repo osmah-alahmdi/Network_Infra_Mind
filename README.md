@@ -3,17 +3,29 @@ Project: managing network services with security
  
 The Hardwares and the technologies that will be used in this project are the following:
 ⦁	The Hardwares:
+
 1- MikroTik Router 1100.
+
 2- Layer 3 Switch Cisco 3560 Series.
+
 3- Layer 2 Switch Cisco.
+
 4- 2 Windows Servers: one used as a domain server and the other is used as a file-sharing server.
+
 5- Linux Web Server.
+
 6- Linux DNS Server.
+
 7-Linux VOIP Server.
+
 8- Linux Back-up Server (NAS).
+
 9- Window for IT Manager.
+
 10- Linux for defensive Security.
+
 11- 12 Windows Devices for Client Users.
+
 
 ⦁	The Technologies:
 1-MikroTik
