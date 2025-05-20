@@ -27,7 +27,8 @@ The Hardwares and the technologies that will be used in this project are the fol
 
 ⦁	The Technologies:
 1-MikroTik
-⦁	DHCP
+⦁	
+DHCP
 ⦁	DNS
 ⦁	VLAN
 ⦁	PPP (BroadBand).
