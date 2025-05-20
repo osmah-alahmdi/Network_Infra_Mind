@@ -28,58 +28,111 @@ The Hardwares and the technologies that will be used in this project are the fol
 
 
 ⦁	The Technologies:
+
 1-MikroTik
 ⦁	
 DHCP
+
 ⦁	DNS
+
 ⦁	VLAN
+
 ⦁	PPP (BroadBand).
+
 ⦁	FireWall.
+
 2- Layer 3 & 2 Switch:
+
 ⦁	VLAN
+
 ⦁	DHCP Snooping
+
 ⦁	Switch-port Port Security.
+
 ⦁	PortFast.
+
 ⦁	Spanning Tree Protocol.
+
 ⦁	Ehter-Channel.
+
 ⦁	Access List.
+
 3- Services:
+
 ⦁	Doamin Server:
+
 ⦁	Active Directory.
+
 ⦁	Additional Domain
+
 ⦁	Group Policy.
+
 ⦁	Block USB
+
 ⦁	Wall paper
+
 ⦁	Disable Task manager
+
 ⦁	Prevent changing background
+
 ⦁	Disable control panel
+
 ⦁	DNS.
+
 ⦁	File-Sharing Sever:
+
 ⦁	NTFS.
+
 ⦁	FSRM.
+
 ⦁	RAID 5
+
 ⦁	Map driver
+
 ⦁	File Screen.
+
 ⦁	Drive mapping
+
 ⦁	Quota.
+
 ⦁	Back-Up (Duplicate).
+
 ⦁	Linux Web Server:
+
 ⦁	Apachy 2.
+
 ⦁	MySQL.
+
 ⦁	PHP
+
+
 ⦁	Php my Admin
+
 ⦁	Libraries:
+
 ⦁	Libapache2-mod-php
+
+
 ⦁	Php-gd.
+
 ⦁	Php-mysql.
+
 ⦁	Php-cli
+
 ⦁	Php-curl.
+
 ⦁	Php-mbstring.
+
 ⦁	Php-xml.
+
 ⦁	Php-zip.
+
 ⦁	DNS Server:
+
 ⦁	AdGuard.
+
 ⦁	SSL
+
 
 
 ⦁	VOIP Server:
@@ -92,36 +145,68 @@ DHCP
 ⦁	Back-Up Server:
 
 ⦁	OpenMediaVault (NAS):
+
 ⦁	SSL.
+
 ⦁	File Sharing.
+
 ⦁	Raid10
+
 ⦁	Sftp
+
 ⦁	Btrrs.
+
 4- Administrators:
+
 ⦁	IT Manager:
+
 ⦁	Putty.
+
 ⦁	WinBox.
+
 ⦁	Ultra VNC.
+
 ⦁	HikVision (CCTV).
+
 ⦁	VMware
+
 ⦁	Eve-ng
+
 ⦁	Defensive Security:
+
 ⦁	WireShark.
+
 ⦁	Nmap.
+
 ⦁	John The Ripper.
+
 ⦁	Metasploit.
+
 ⦁	Zabbix.
 
+
 6- Security:
+
 ⦁	DHCP Spoofing (MITM)
+
 ⦁	AntiVirus.
+
 ⦁	PortScan.
+
 ⦁	DDOS
+
 ⦁	Ransomware.
+
 ⦁	BlockUSB.
+
 ⦁	Port Security & FireWall.
+
 ⦁	Zabbix.
+
 ⦁	WireShark.
+
 The Virtual technologies that will be used to achieve this project are as follows:
+
 ⦁	VMware
+
 ⦁	Eve-ng
